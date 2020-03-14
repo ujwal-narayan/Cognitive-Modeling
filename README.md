@@ -19,11 +19,13 @@ You can use `https://neuroinformatics.nl/HBP/morphology-viewer/` to visualize th
 ###  Neuron1
 
 
-![Neuron1]('./images/png/neuron1.png')
+![Neuron1]('https://github.com/ujwal-narayan/Cognitive-Modeling/blob/master/images/png/neuron1.png')
+
 ### Neuron2
 
-![Neuron1]('./images/png/neuron2.png')
+![Neuron2]('https://github.com/ujwal-narayan/Cognitive-Modeling/blob/master/images/png/neuron2.png')
+
 ### Neuron3
 Purkinje Cell
-![Neuron1]('./images/png/neuron3.png')
+![Neuron3]('https://github.com/ujwal-narayan/Cognitive-Modeling/blob/master/images/png/neuron3.png')
 
