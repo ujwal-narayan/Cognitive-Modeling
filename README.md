@@ -7,7 +7,7 @@ I am currently using `neuronm` which can be installed by running
 pip install neurom
 ```
 
-run `visualizer.py file_name` to visualize the neuron 
+run from the project root `src/visualizer.py data/file_name` to visualize the neuron 
 
 Valid filenames are 
 
