@@ -21,6 +21,10 @@ def main():
     file_path = sys.argv[1]
     if os.path.exists(file_path):
         visualize(file_path)
+    
+    elif os.path.exists('./data/'+ file_path):
+        file_path = './data/' + file_path
+        visualize(file_path)
     else:
         print("Please ensure that the correct file path is passed")
         return -1
