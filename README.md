@@ -36,6 +36,10 @@ Sensory Cell
 3D image: 
 <img src="./images/3d/neuron1.png">
 
+2D image: 
+<img src="./images/2d/neuron1.png">
+
+
 ### Neuron2
 
 Pyramidal Cell
@@ -43,6 +47,10 @@ Pyramidal Cell
 
 3D image: 
 <img src="./images/3d/neuron2.png">
+
+2D image: 
+<img src="./images/2d/neuron2.png">
+
 ### Neuron3
 
 Purkinje Cell
@@ -50,4 +58,7 @@ Purkinje Cell
 
 3D image: 
 <img src="./images/3d/neuron3.png">
+
+2D image: 
+<img src="./images/2d/neuron3.png">
 
